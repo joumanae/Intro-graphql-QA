@@ -1,0 +1,86 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "1",
+      "createdAt": "1234",
+      "name": "Moose",
+      "type": "DOG"
+    },
+    {
+      "id": "2",
+      "createdAt": "3456",
+      "name": "Daryl",
+      "type": "CAT"
+    },
+    {
+      "id": "ES_1OafyAmhAwB7W1PjOx",
+      "createdAt": 1573681796894,
+      "name": "Daryl",
+      "type": "CAT"
+    },
+    {
+      "id": "bqjxuUcYwxDeTmfwj7ci8",
+      "createdAt": 1573681798245,
+      "name": "Daryl",
+      "type": "CAT"
+    },
+    {
+      "id": "hHrctyj7IWZqEFqOWVhhJ",
+      "createdAt": 1573681798671,
+      "name": "Daryl",
+      "type": "CAT"
+    },
+    {
+      "id": "pmQWwTd1rh2dSWZ57PKOX",
+      "createdAt": 1573681798871,
+      "name": "Daryl",
+      "type": "CAT"
+    },
+    {
+      "id": "gkOExmbQsVUlNC3-Iezxt",
+      "createdAt": 1573681821580,
+      "name": "Daryl",
+      "type": "CAT"
+    },
+    {
+      "id": "fwK1Tb7JyLPZDK3Jk8jEd",
+      "createdAt": 1573681822103,
+      "name": "Daryl",
+      "type": "CAT"
+    },
+    {
+      "id": "JujVAUEiqqup-BAhdkoop",
+      "createdAt": 1573681822276,
+      "name": "Daryl",
+      "type": "CAT"
+    },
+    {
+      "id": "K-Po5pPLkeIorxDYIWCdZ",
+      "createdAt": 1573681822444,
+      "name": "Daryl",
+      "type": "CAT"
+    },
+    {
+      "id": "oRdynP5E_k4s4ErxWt9Sv",
+      "createdAt": 1573681911174,
+      "name": "Daryl",
+      "type": "CAT"
+    },
+    {
+      "id": "vLXSh0HjasrWAuwsXqy9k",
+      "createdAt": 1573682048694,
+      "name": "Daryl",
+      "type": "CAT"
+    },
+    {
+      "id": "JKowTEQsM-6-jjql5Zna8",
+      "createdAt": 1573682068752,
+      "name": "Daryl",
+      "type": "CAT"
+    }
+  ]
+}
