@@ -12,7 +12,7 @@ This course comes with some [slides](https://docs.google.com/presentation/d/1IrG
 The solution branch has the completed course fo reference. There is no one way to finish this course.
 `git checkout solution`
 
-###QA for FEM. 
+### QA for FEM. 
 Everything seems to be working well.
 
 * Run npm i 
