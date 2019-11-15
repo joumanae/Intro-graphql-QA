@@ -1,3 +1,4 @@
+### Notes from the instructor
 # Fullstack GraphQL
 > Learn how to use GraphQL with Node and React
 
@@ -10,3 +11,8 @@ This course comes with some [slides](https://docs.google.com/presentation/d/1IrG
 ## Solutions
 The solution branch has the completed course fo reference. There is no one way to finish this course.
 `git checkout solution`
+
+### QA for FEM. 
+Everything seems to be working well.
+
+* Run npm i 
