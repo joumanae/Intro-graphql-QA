@@ -16,3 +16,4 @@ The solution branch has the completed course fo reference. There is no one way t
 Everything seems to be working well.
 
 * Run npm i 
+* For the client side part of the course: run npm start server & yarn run app to check if the application built in this course is running properly. 
